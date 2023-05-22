@@ -97,7 +97,10 @@ content:
           -	Utilized Facebook's Prophet to forecast sales for a major US retail organization.
           -	Developed a replenishment optimization and inventory projection module.
           -	Created a content management system using Wagtail, Django, Azure, and PostgresSQL.
-          -	Implemented automated text messaging using Twilio and Python.
+          -	Developed Python scripts for ETL/ELT processing.
+          - Worked with Azure Data Factory (ADF) data pipelines to load data into Snowflake DB.
+          - Achieved 90% reduction in LookML development time through automated LookML generation based on loading scripts.
+
       - layout: left
         title: LIS Nepal 
         link: https://lisnepal.com.np/
@@ -163,6 +166,14 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           A Natural Language Processing and classification project to diagnose disease based on symptoms described by the patients using Python (Pandas, NumPy, Scikit-learn, Keras, TensorFlow) 
+      - layout: top-middle
+        title: Sports analytics - fantasy premier league
+        #link: https://www.storytellingcenter.net/
+        #link_text: International Storytelling Center
+        additional_links:
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          A machine learning project with sentiment analysis to predict player performance using Python (Twitter API v2.0, VADER, Scikit-learn, Keras, TensorFlow, NLTK).
 
   # - title: A Little More About Me
   #   layout: text
