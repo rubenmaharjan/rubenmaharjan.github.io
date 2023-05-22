@@ -83,7 +83,7 @@ content:
         caption: June 2022 - August 2022
         description: | # this will include new lines to allow paragraphs
           -	Collaborated with the Data Science team on assortment optimization for retail businesses
-          -	Created dashboards in Power BI to analyze large retail data sets
+          -	Created dashboards in Power BI to analyze large retail data sets resulting in a 30% reduction in time spent on data analysis.
           -	Developed machine learning models using Python in Amazon Sagemaker
       - layout: left
         title: LIS Nepal 
@@ -100,7 +100,6 @@ content:
           -	Developed Python scripts for ETL/ELT processing.
           - Worked with Azure Data Factory (ADF) data pipelines to load data into Snowflake DB.
           - Achieved 90% reduction in LookML development time through automated LookML generation based on loading scripts.
-
       - layout: left
         title: LIS Nepal 
         link: https://lisnepal.com.np/
@@ -108,12 +107,10 @@ content:
         sub_title: Software Engineer
         caption: April 2018 - July 2020
         description: | # this will include new lines to allow paragraphs
-          -	Managed a team of three software developers and implemented a large-scale data warehouse at retail organizations.
-          -	Designed and implemented the data extraction architecture using various design patterns.
-          -	Utilized Facebook's Prophet to forecast sales for a major US retail organization.
-          -	Developed a replenishment optimization and inventory projection module.
-          -	Created a content management system using Wagtail, Django, Azure, and PostgresSQL.
-          -	Implemented automated text messaging using Twilio and Python.
+          -	Developed RESTful API services utilizing a Service Oriented Architecture (SOA).
+          -	Implemented Jenkins for CI/CD pipelines, resulting in a significant 80% improvement in the deployment process.
+          -	Assisted with bug fixing and troubleshooting during the initial product release.
+          -	Collaborated with three major banks to integrate banking transactions into the client's platform.
       - layout: left
         title: YCO Nepal 
         link: https://lisnepal.com.np/
@@ -136,8 +133,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           -	Created a mobile app using React Native and Mobx, with a Django backend
           -	Published the app on the Google Play store and Apple App store
-
-
 
 
   - title: Projects # Title for the section
