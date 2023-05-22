@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ruben and I'm a Graduate student with 4 years of experience in Application Development (Web/Desktop) and Data Warehousing. Proficient in Java, Python, JavaScript, MySQL, Snowflake, and other frameworks like Angular, JSF, Hibernate, and Pandas. Experienced with Linux, Power BI, Azure, Vim, Git, Subversion, and other tools like JIRA, Redmine, and Bugzilla
+  Hi, my name's Ruben and I'm a master’s graduate with 4 years of experience in Application Development (Web/Desktop) and Data Warehousing. Proficient in Java, Python, JavaScript, MySQL, Snowflake, and other frameworks like Angular, JSF, Hibernate, and Pandas. Experienced with Linux, Power BI, Azure, Vim, Git, Subversion, and other tools like JIRA, Redmine, and Bugzilla
 
 content:
   - title: Education # Title for the section
