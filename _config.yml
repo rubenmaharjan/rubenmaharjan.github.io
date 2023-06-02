@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ruben Maharjan
-title: Graduate Teaching Assistant
+#title: Graduate Teaching Assistant
 email: rubenmaharjan578@gmail.com
 #website: www.github.com/sproogen/resume-theme
 
@@ -48,8 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ruben and I'm a master’s graduate with 4 years of experience in Application Development (Web/Desktop) and Data Warehousing. Proficient in Java, Python, JavaScript, MySQL, Snowflake, and other frameworks like Angular, JSF, Hibernate, and Pandas. Experienced with Linux, Power BI, Azure, Vim, Git, Subversion, and other tools like JIRA, Redmine, and Bugzilla
-
+  I am a highly adaptable and quick-learning professional with a remarkable aptitude for mastering new technology stacks expeditiously. I have a proven track record of developing top-tier applications and products that meet production standards. I exhibit a strong sense of accountability for my work, consistently delivering exceptional quality that exceeds expectations. As a master's graduate with 4 years of experience in Web/Desktop Application Development and Data Warehousing, I am proficient in Python, Java, JavaScript, MySQL, Snowflake, Angular, Hibernate, and Pandas.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,9 +81,9 @@ content:
         sub_title: Intern
         caption: June 2022 - August 2022
         description: | # this will include new lines to allow paragraphs
-          -	Collaborated with the Data Science team on assortment optimization for retail businesses
-          -	Created dashboards in Power BI to analyze large retail data sets resulting in a 30% reduction in time spent on data analysis.
-          -	Developed machine learning models using Python in Amazon Sagemaker
+          -	Collaborated closely with the Data Science team, contributing to assortment optimization initiatives for retail businesses, leveraging data-driven insights to enhance product offerings and maximize profitability. 
+          -	Developed interactive dashboards in Power BI, enabling efficient analysis of large-scale retail datasets, leading to a remarkable 30% reduction in time spent on data analysis and improved decision-making processes.
+          -	Utilized Python in Amazon Sagemaker to develop and deploy machine learning models, driving actionable insights and predictive capabilities for business processes, resulting in enhanced efficiency and optimized outcomes.
       - layout: left
         title: LIS Nepal 
         link: https://lisnepal.com.np/
@@ -92,14 +91,15 @@ content:
         sub_title: Senior Software Engineer, R&D Lane
         caption: Augues 2020 - August 2021
         description: | # this will include new lines to allow paragraphs
-          -	Managed a team of three software developers and implemented a large-scale data warehouse at retail organizations.
-          -	Designed and implemented the data extraction architecture using various design patterns.
-          -	Utilized Facebook's Prophet to forecast sales for a major US retail organization.
-          -	Developed a replenishment optimization and inventory projection module.
-          -	Created a content management system using Wagtail, Django, Azure, and PostgresSQL.
-          -	Developed Python scripts for ETL/ELT processing.
-          - Worked with Azure Data Factory (ADF) data pipelines to load data into Snowflake DB.
-          - Achieved 90% reduction in LookML development time through automated LookML generation based on loading scripts.
+          -	Led a team of three software developers, successfully managing and delivering a large-scale data warehouse implementation for retail organizations. 
+          -	Designed, implemented, and deployed a robust data extraction architecture, utilizing various design patterns in Python to ensure efficient and reliable data processing. 
+          -	Leveraged Facebook's Prophet, a powerful time series model, to forecast sales for a major US retail organization, enabling data-driven decision-making and improved inventory management. 
+          -	Developed a high-performance replenishment optimization and inventory projection module, employing multiprocessing techniques in Python to enhance efficiency and accuracy. 
+          -	Created a feature-rich content management system using Wagtail, Django, Azure, and PostgreSQL, empowering clients to manage and publish content seamlessly. 
+          -	Implemented Python scripts for ETL/ELT processing, automating data transformations and ensuring data integrity and consistency. 
+          -	Proficient in consuming and integrating data from external systems like NetSuite with SOAP (Simple Object Access Protocol) API, enabling seamless data exchange and interoperability. 
+          -	Implemented Azure Data Factory (ADF) data pipelines, optimizing data loading processes into Snowflake DB, resulting in an impressive 90% reduction in data loading time.
+          -	Adhered to agile development methodologies with active involvement in standup, sprint planning and retrospective meetings, and effectively using project-tracking tools like JIRA and Confluence.
       - layout: left
         title: LIS Nepal 
         link: https://lisnepal.com.np/
@@ -107,10 +107,13 @@ content:
         sub_title: Software Engineer
         caption: April 2018 - July 2020
         description: | # this will include new lines to allow paragraphs
-          -	Developed RESTful API services utilizing a Service Oriented Architecture (SOA).
-          -	Implemented Jenkins for CI/CD pipelines, resulting in a significant 80% improvement in the deployment process.
-          -	Assisted with bug fixing and troubleshooting during the initial product release.
-          -	Collaborated with three major banks to integrate banking transactions into the client's platform.
+          -	Designed and developed multi-tier software applications, employing industry-standard architectural patterns for scalability and maintainability. 
+          -	Created robust RESTful API services, utilizing a Service Oriented Architecture (SOA) to facilitate seamless communication between components. 
+          -	Configured and managed Linux server environments to ensure optimal hosting and performance of multi-tier applications. 
+          -	Implemented Jenkins for efficient Continuous Integration and Continuous Deployment (CI/CD) pipelines, resulting in an impressive 80% improvement in the deployment process. 
+          -	Improved application performance and user experience by implementing caching strategies, reducing page load times by an average of 30%.
+          -	Played a key role in bug fixing and troubleshooting during the initial product release, ensuring a smooth and error-free user experience. 
+          -	Collaborated closely with three major banks, successfully integrating banking transactions into the client's platform, enhancing functionality and user satisfaction.
       - layout: left
         title: YCO Nepal 
         link: https://lisnepal.com.np/
@@ -118,12 +121,10 @@ content:
         sub_title: Associate Software Engineer
         caption: July 2017 - March 2018
         description: | # this will include new lines to allow paragraphs
-          -	Utilized Angular 4 to develop Nepal's first online stock trading platform
-          -	Contributed to the development of the frontend and backend of the stock buy/sell page
-          -	Conducted research on the Java Persistence API (JPA) and its implementation
-          -	Investigated OAuth 2 for token-based authentication and authorization
-          -	Worked with Primefaces, Hibernate, and JSF in web development
-          -	Implemented JasperReports to generate PDF reports
+          -	Developed the end-to-end development of Nepal's pioneering online stock trading platform, leveraging Angular 4 and Java 8 to deliver a seamless user experience for 49 brokers and over 100,000 online users.
+          -	Employed Java Persistence API (JPA) and its implementation in J2EE to streamline performance and enhance the functionality of the platform.
+          -	Implemented OAuth 2 for robust token-based authentication and authorization, ensuring secure access control for users.
+
       - layout: left
         title: Sunai LLC - My Hair Counts (Part-time)
         #link: https://lisnepal.com.np/
@@ -131,8 +132,10 @@ content:
         sub_title: Full Stack Developer
         caption: January 2020 - June 2020
         description: | # this will include new lines to allow paragraphs
-          -	Created a mobile app using React Native and Mobx, with a Django backend
-          -	Published the app on the Google Play store and Apple App store
+          -	Developed a mobile app using React Native and Mobx, with a Django backend, and successfully published it on the Google Play and Apple App stores.
+          -	Utilized Python to enhance image security by implementing Amazon S3 for storing and accessing user-uploaded images in the mobile app.
+          -	Utilized Firebase to optimize backend services, specifically for authentication and real-time database, enabling the seamless development of high-quality applications.
+
 
 
   - title: Projects # Title for the section
@@ -170,14 +173,14 @@ content:
         description: | # this will include new lines to allow paragraphs
           A machine learning project with sentiment analysis to predict player performance using Python (Twitter API v2.0, VADER, Scikit-learn, Keras, TensorFlow, NLTK).
 
-  # - title: A Little More About Me
-  #   layout: text
-  #   content: | # this will include new lines to allow paragraphs
-  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-  #     - Rock climbing
-  #     - Gaming
-  #     - Knitting
-  #     - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Alongside my interests in data and software engineering some of my other interests and hobbies are:
+      - Soccer (Football as the rest of the world knows it)
+      - Bagpacking
+      - Reading
+      - Being near water bodies
 
   #     Look at this cool image  
   #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
