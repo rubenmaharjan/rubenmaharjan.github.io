@@ -98,7 +98,7 @@ content:
           -	Created a feature-rich content management system using Wagtail, Django, Azure, and PostgreSQL, empowering clients to manage and publish content seamlessly. 
           -	Implemented Python scripts for ETL/ELT processing, automating data transformations and ensuring data integrity and consistency. 
           -	Proficient in consuming and integrating data from external systems like NetSuite with SOAP (Simple Object Access Protocol) API, enabling seamless data exchange and interoperability. 
-          -	Implemented Azure Data Factory (ADF) data pipelines, optimizing data loading processes into Snowflake DB, resulting in an impressive 90% reduction in data loading time.
+          -	Implemented Azure Data Factory (ADF) data pipelines, optimizing data loading processes into Snowflake DB, resulting in an impressive 80% reduction in data loading time.
           -	Adhered to agile development methodologies with active involvement in standup, sprint planning and retrospective meetings, and effectively using project-tracking tools like JIRA and Confluence.
       - layout: left
         title: LIS Nepal 
@@ -126,8 +126,8 @@ content:
           -	Implemented OAuth 2 for robust token-based authentication and authorization, ensuring secure access control for users.
 
       - layout: left
-        title: Sunai LLC - My Hair Counts (Part-time)
-        #link: https://lisnepal.com.np/
+        title: My Hair Counts (Part-time)
+        link: https://www.myhaircounts.com/
         # link_text: boringcompany.com
         sub_title: Full Stack Developer
         caption: January 2020 - June 2020
