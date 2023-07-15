@@ -115,17 +115,6 @@ content:
           -	Played a key role in bug fixing and troubleshooting during the initial product release, ensuring a smooth and error-free user experience. 
           -	Collaborated closely with three major banks, successfully integrating banking transactions into the client's platform, enhancing functionality and user satisfaction.
       - layout: left
-        title: YCO Nepal 
-        link: https://lisnepal.com.np/
-        # link_text: boringcompany.com
-        sub_title: Associate Software Engineer
-        caption: July 2017 - March 2018
-        description: | # this will include new lines to allow paragraphs
-          -	Developed the end-to-end development of Nepal's pioneering online stock trading platform, leveraging Angular 4 and Java 8 to deliver a seamless user experience for 49 brokers and over 100,000 online users.
-          -	Employed Java Persistence API (JPA) and its implementation in J2EE to streamline performance and enhance the functionality of the platform.
-          -	Implemented OAuth 2 for robust token-based authentication and authorization, ensuring secure access control for users.
-
-      - layout: left
         title: My Hair Counts (Part-time)
         link: https://www.myhaircounts.com/
         # link_text: boringcompany.com
@@ -135,7 +124,18 @@ content:
           -	Developed a mobile app using React Native and Mobx, with a Django backend, and successfully published it on the Google Play and Apple App stores.
           -	Utilized Python to enhance image security by implementing Amazon S3 for storing and accessing user-uploaded images in the mobile app.
           -	Utilized Firebase to optimize backend services, specifically for authentication and real-time database, enabling the seamless development of high-quality applications.
-
+      - layout: left
+        title: YCO Nepal 
+        link: https://lisnepal.com.np/
+        # link_text: boringcompany.com
+        sub_title: Associate Software Engineer
+        caption: July 2017 - March 2018
+        description: | # this will include new lines to allow paragraphs
+          -	Developed the end-to-end development of Nepal's pioneering online stock trading platform, leveraging Angular 4 and Java 8 to deliver a seamless user experience for 49 brokers and over 100,000 online users.
+          -	Employed Java Persistence API (JPA) and its implementation in J2EE to streamline performance and enhance the functionality of the platform.
+          -	Implemented OAuth 2 for robust token-based authentication and authorization, ensuring secure access control for users.
+          - Developed and implemented stored procedures for SQL databases, enhancing data manipulation and retrieval capabilities.
+          - Gained exposure to Rabbit MQ through knowledge transfer, expanding understanding of messaging systems.
 
 
   - title: Projects # Title for the section
@@ -156,6 +156,14 @@ content:
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I am currently engaged in an ongoing Natural Language Processing (NLP) project in collaboration with the International Storytelling Center. The project aims to digitize and transcribe a vast historical archive of over 50 years of performance recordings, making them more easily accessible and searchable for researchers, scholars, and other interested parties. Additionally, this project allows for the development of new research and analysis methods and aims to preserve the rich history of the performances for future generations.
+      - layout: top-middle
+        title: Spring Boot Microservices
+        #link: https://www.storytellingcenter.net/
+        #link_text: International Storytelling Center
+        additional_links:
+        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          Developed a Spring Boot project with Microservices architecture, leveraging technologies such as MongoDB, MySQL, Eureka, Spring Cloud Gateway, and Kafka, to gain hands-on experience in backend web development and demonstrate proficiency in designing scalable and modular systems. 
       - layout: top-middle
         title: Disease Diagnosis
         #link: https://www.storytellingcenter.net/
