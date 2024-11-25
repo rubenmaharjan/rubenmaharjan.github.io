@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile1.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a highly adaptable and quick-learning professional with a remarkable aptitude for mastering new technology stacks expeditiously. I have a proven track record of developing top-tier applications and products that meet production standards. I exhibit a strong sense of accountability for my work, consistently delivering exceptional quality that exceeds expectations. As a master's graduate with 4 years of experience in Web/Desktop Application Development and Data Warehousing, I am proficient in Python, Java, JavaScript, MySQL, Snowflake, Angular, Hibernate, and Pandas.
+  Results-driven Data and Software Engineer with over 6 years of experience in designing, implementing, and managing large-scale data solutions and applications. Proven expertise in Snowflake, Python, SQL, and Azure, with a strong background in data engineering, full-stack development, and technical client management. Adept at leading technical sessions, translating complex requirements into actionable solutions, and optimizing workflows for enterprise clients, primarily in the retail and financial sectors. Skilled in building robust CI/CD pipelines, enhancing cloud security, and developing machine learning solutions to drive data insights and business growth. Passionate about solving complex technical challenges, mentoring teams, and delivering high-performance, scalable solutions.
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -65,6 +65,19 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Robling Inc.
+        link: https://robling.io/
+        # link_text: boringcompany.com
+        sub_title: Technical Account Manager Assistant
+        caption: October 2023 - Present
+        description: | # this will include new lines to allow paragraphs
+          - Led Technical Client Sessions: Conducted technical sessions primarily focused on Snowflake, guiding retail clients in translating requirements into actionable product solutions, while enhancing product understanding and adoption.
+          - Cross-Functional Collaboration: Partnered with product and engineering teams to prioritize client-driven feature enhancements, aligning solutions with customer needs.
+          - Managed Technical Projects: Scoped and managed multiple projects, ensuring timely delivery and alignment with client business goals.
+          - Enhanced Snowflake Security: Implemented robust security measures, optimized access controls, and enforced best practices to strengthen Snowflake's data protection and compliance.
+          - Provided Production Batch Support: Monitored, troubleshot, and resolved issues in production batch processes to ensure seamless data workflows, minimize downtime, and maintain system reliability.
+          - Strong SQL and Python Skills: Designed and optimized SQL schema, queries, and data pipelines, leveraging Python for automation, data transformation, and analysis tasks in large-scale environments.
       - layout: left
         title: East Tennessee State University
         link: https://www.etsu.edu/ehome/
@@ -85,11 +98,11 @@ content:
           -	Developed interactive dashboards in Power BI, enabling efficient analysis of large-scale retail datasets, leading to a remarkable 30% reduction in time spent on data analysis and improved decision-making processes.
           -	Utilized Python in Amazon Sagemaker to develop and deploy machine learning models, driving actionable insights and predictive capabilities for business processes, resulting in enhanced efficiency and optimized outcomes.
       - layout: left
-        title: Logic Information Systems
+        title: Robling Inc. (Offshore Contractor)
         link: https://logicinfo.com/
         # link_text: boringcompany.com
-        sub_title: Software Engineer II, R&D Lane
-        caption: Augues 2020 - August 2021
+        sub_title: Data Engineer
+        caption: August 2020 - August 2021
         description: | # this will include new lines to allow paragraphs
           -	Led a team of three software developers, successfully managing and delivering a large-scale data warehouse implementation for retail organizations. 
           -	Designed, implemented, and deployed a robust data extraction architecture, utilizing various design patterns in Python to ensure efficient and reliable data processing. 
